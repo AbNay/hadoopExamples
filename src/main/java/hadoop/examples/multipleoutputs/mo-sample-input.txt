@@ -1,0 +1,4 @@
+fruits APPLE RED
+fruits ORANGE BLACK
+fruits BANANA GREEN
+veg	spinach	green
