@@ -4,6 +4,7 @@
 /Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/kafkahadoop/ZkUtils.java
 /Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/chainmapper/ExampleMappers.java
 /Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/wordcount/WordCountMapper.java
+/Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/kafkaexample/KafkaProducer.java
 /Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/kafkahadoop/HadoopJobMapper.java
 /Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/chainmapper/ChainMapperDriver.java
 /Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/App.java
@@ -15,6 +16,7 @@
 /Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/kafkahadoop/KafkaInputSplit.java
 /Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/mapred/ProcessUnits.java
 /Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/kafkahadoop/KafkaInputRecordReader.java
+/Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/kafkaexample/KafkaConsumer.java
 /Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/multipleoutputs/MultipleOutputsExample.java
 /Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/partitioner/PartitionerExample.java
 /Users/harpreet_paul/Documents/workspace-hadoop/hadoop-example/src/main/java/hadoop/examples/partitioner/PartitionerExample2.java
